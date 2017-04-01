@@ -3,14 +3,15 @@
  */
 $(document).ready(function () {
 
-/*    function limpa_formulário_cep() {
+    function limpa_formulário_cep() {
         // Limpa valores do formulário de cep.
-        $("#rua").val("");
+        $("#cep").val("");
+        $("#logradouro").val("");
         $("#bairro").val("");
         $("#cidade").val("");
         $("#uf").val("");
-        $("#ibge").val("");
-    }*/
+
+    }
 
 //Quando o campo cep perde o foco.
     $("#cep").blur(function() {
