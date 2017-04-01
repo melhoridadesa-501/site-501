@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df3d26b-5293-490e-a433-66034a4c6c84" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/formReset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/viacep.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.twig" afterPath="$PROJECT_DIR$/views/index.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pages/idoso.twig" afterPath="$PROJECT_DIR$/views/pages/idoso.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,8 +70,8 @@
       <file leaf-file-name="idoso.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="119" lean-forward="false" selection-start-line="24" selection-start-column="119" selection-end-line="24" selection-end-column="119" />
+            <state relative-caret-position="185">
+              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -334,12 +331,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491052394574</updated>
-      <workItem from="1491052396220" duration="8603000" />
+      <workItem from="1491052396220" duration="8747000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8603000" />
+    <option name="totallyTimeSpent" value="8747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -461,8 +458,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="119" lean-forward="false" selection-start-line="24" selection-start-column="119" selection-end-line="24" selection-end-column="119" />
+        <state relative-caret-position="185">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding />
         </state>
       </provider>
