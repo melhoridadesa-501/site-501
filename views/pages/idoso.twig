@@ -2,43 +2,43 @@
 
 {% block content %}
 
-    <form id="formIdoso" method="post">
+    <form id="formIdoso" method="post" action="localhost:8000/idoso/cadastroIdoso.php">
         <div class="form-group">
             <label for="nome">Nome</label>
-            <input type="text" class="form-control" id="nome" aria-describedby="Nome" placeholder="Enter name" required>
+            <input type="text" class="form-control" name="nome" id="nome" aria-describedby="Nome" placeholder="Enter name" required>
         </div>
         <div class="form-group">
             <label for="cpf">CPF</label>
-            <input type="text" class="form-control" id="cpf" aria-describedby="Cpf" placeholder="Enter CPF" required>
+            <input type="text" class="form-control" name="cpf" id="cpf" aria-describedby="Cpf" placeholder="Enter CPF" required>
         </div>
         <div class="form-group">
             <label for="dtNascimento">Data de Nascimento</label>
-            <input type="date" class="form-control" id="dtNascimento" aria-describedby="dtNascimento" placeholder="Enter Data de Nascimento" required>
+            <input type="date" class="form-control" name="dtNascimento" id="dtNascimento" aria-describedby="dtNascimento" placeholder="Enter Data de Nascimento" required>
         </div>
         <div class="form-group">
             <label for="cep">CEP</label>
-            <input type="text" class="form-control" id="cep" aria-describedby="cep" placeholder="Enter CEP" required>
+            <input type="text" class="form-control" name="cep" id="cep" aria-describedby="cep" placeholder="Enter CEP" required>
         </div>
 
         <div class="form-group">
             <label for="logradouro">Logradouro</label>
-            <input type="text" class="form-control" id="logradouro" aria-describedby="logradouro" placeholder="Enter logradouro" readonly>
+            <input type="text" class="form-control" name="logradouro" id="logradouro" aria-describedby="logradouro" placeholder="Enter logradouro" readonly>
         </div>
         <div class="form-group">
             <label for="complemento">Complemento</label>
-            <input type="text" class="form-control" id="complemento" aria-describedby="complemento" placeholder="Enter complemento">
+            <input type="text" class="form-control" name="complemento" id="complemento" aria-describedby="complemento" placeholder="Enter complemento">
         </div>
         <div class="form-group">
             <label for="bairro">Bairro</label>
-            <input type="text" class="form-control" id="bairro" aria-describedby="bairro" placeholder="Enter bairro" readonly>
+            <input type="text" class="form-control" name="bairro" id="bairro" aria-describedby="bairro" placeholder="Enter bairro" readonly>
         </div>
         <div class="form-group">
             <label for="cidade">Cidade</label>
-            <input type="text" class="form-control" id="cidade" aria-describedby="cidade" placeholder="Enter cidade" readonly>
+            <input type="text" class="form-control" name="cidade" id="cidade" aria-describedby="cidade" placeholder="Enter cidade" readonly>
         </div>
         <div class="form-group">
             <label for="uf">UF</label>
-            <input type="text" class="form-control" id="uf" aria-describedby="uf" placeholder="Enter UF" readonly>
+            <input type="text" class="form-control" name="uf" id="uf" aria-describedby="uf" placeholder="Enter UF" readonly>
         </div>
 
 
