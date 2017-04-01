@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9df3d26b-5293-490e-a433-66034a4c6c84" name="Default" comment="" />
+    <list default="true" id="9df3d26b-5293-490e-a433-66034a4c6c84" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pages/idoso.twig" afterPath="$PROJECT_DIR$/views/pages/idoso.twig" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,17 +66,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="idoso.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="idoso.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+            <state relative-caret-position="270">
+              <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="run.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -142,8 +144,8 @@
         <option value="$PROJECT_DIR$/views/index.twig" />
         <option value="$PROJECT_DIR$/assets/viaCep.js" />
         <option value="$PROJECT_DIR$/assets/idoso.js" />
-        <option value="$PROJECT_DIR$/views/pages/idoso.twig" />
         <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/views/pages/idoso.twig" />
       </list>
     </option>
   </component>
@@ -299,12 +301,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491052394574</updated>
-      <workItem from="1491052396220" duration="15105000" />
+      <workItem from="1491052396220" duration="15166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15105000" />
+    <option name="totallyTimeSpent" value="15166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -432,18 +434,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/run.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
         </state>
       </provider>
