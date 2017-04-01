@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9df3d26b-5293-490e-a433-66034a4c6c84" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rotas/rotas.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/pages/admin.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/pages/contato.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/pages/idoso.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/pages/noticia.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pages/idoso.twig" afterPath="$PROJECT_DIR$/views/pages/idoso.twig" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,21 +47,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="admin.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/pages/admin.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="1680">
               <caret line="118" column="7" lean-forward="false" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="idoso.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="idoso.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" column="14" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+            <state relative-caret-position="330">
+              <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -114,10 +108,10 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/views/pages/noticia.twig" />
-        <option value="$PROJECT_DIR$/views/pages/idoso.twig" />
         <option value="$PROJECT_DIR$/views/index.twig" />
         <option value="$PROJECT_DIR$/rotas/rotas.php" />
         <option value="$PROJECT_DIR$/views/pages/admin.twig" />
+        <option value="$PROJECT_DIR$/views/pages/idoso.twig" />
       </list>
     </option>
   </component>
@@ -305,12 +299,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491052394574</updated>
-      <workItem from="1491052396220" duration="4605000" />
+      <workItem from="1491052396220" duration="5660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4605000" />
+    <option name="totallyTimeSpent" value="5660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="6" />
@@ -378,14 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="14" lean-forward="false" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rotas/rotas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -406,8 +392,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pages/admin.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="1680">
           <caret line="118" column="7" lean-forward="false" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pages/idoso.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
           <folding />
         </state>
       </provider>
